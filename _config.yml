@@ -25,9 +25,15 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jdgibbz
 github_username:  j2d2
 
+# theme variables
+# https://github.com/pages-themes/architect
+# show_downloads: ["true" or "false" to indicate whether to provide a download URL]
+# google_analytics: [Your Google Analytics tracking ID]
+
+
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
 
