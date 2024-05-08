@@ -1,9 +1,38 @@
 {
+  "name": "j2d2-github-io",
+  "version": "0.8.1.1",
+  "description": "j2d2 Github Pages Jekyll theme npm build scripts",
   "scripts": {
-    "start": "bundle exec jekyll serve --livereload"
+    "start": "bundle exec jekyll serve -l -H localhost",
+    "uglify": "uglifyjs node_modules/jquery/dist/jquery.min.js assets/js/plugins/jquery.fitvids.js assets/js/plugins/jquery.greedy-navigation.js assets/js/plugins/jquery.magnific-popup.js assets/js/plugins/jquery.smooth-scroll.min.js assets/js/plugins/stickyfill.min.js assets/js/_main.js -c -m -o assets/js/main.min.js",
+    "watch:js": "onchange \"assets/js/**/*.js\" -e \"assets/js/main.min.js\" -- npm run build:js",
+    "build:js": "npm run uglify"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/j2d2/j2d2.github.io"
+  },
+  "keywords": [
+    "jekyll",
+    "theme",
+    "j2d2"
+  ],
+  "contributors": [
+    "J.D. Gibbs"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/j2d2/j2d2.github.io/issues"
+  },
+  "homepage": "https://github.com/j2d2/j2d2.github.io",
+  "engines": {
+    "node": ">= 0.10.0"
   },
   "dependencies": {
-    "@aws-amplify/cli": "^12.10.0",
-    "native-run": "^2.0.0"
+    "jquery": "^3.7.1"
+  },
+  "devDependencies": {
+    "onchange": "^7.1.0",
+    "uglify-js": "^3.17.4"
   }
 }
