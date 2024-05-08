@@ -2,7 +2,25 @@
 
 ```
 bundle exec jekyll serve
+# Pass the --livereload option to serve to automatically refresh the page with each change you make to the source files: 
+bundle exec jekyll serve --livereload
+
+
 ```
+
+Running locally
+Before you start make sure you have Ruby and the gems for Jekyll installed locally. You can find out how to do that here.
+
+Clone your resume repository locally (if you haven't already)
+cd [your-repository-name]
+bundle install
+bundle exec jekyll serve
+Open your browser to http://localhost:4000
+Any changes you make will automatically build and you will be able to see these by refreshing your browser.
+
+Note: You will need to re-run bundle exec jekyll serve to see changes made in _config.yml.
+
+
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 

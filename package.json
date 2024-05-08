@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "bundle exec jekyll serve --livereload"
+  },
+  "dependencies": {
+    "@aws-amplify/cli": "^12.10.0",
+    "native-run": "^2.0.0"
+  }
+}
