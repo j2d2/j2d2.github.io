@@ -1,7 +1,7 @@
 ---
 title: 'Dev&lt;Path&gt;Log()'
-date: 2022-05-24
-permalink: /posts/2022/05/24/devpathlog
+date: 2024-05-10
+permalink: /posts/2024/05/10/devpathlog
 tags:
   - cool posts
   - development

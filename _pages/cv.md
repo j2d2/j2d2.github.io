@@ -40,8 +40,7 @@ Interested in exciting challenges where the technologies of today and tomorrow c
 {% endfor %}
 </section>
   
-Skills
-======
+## Skills
 * Software Development
 * Project Management
 * Web Applications
@@ -79,7 +78,7 @@ Teaching
   {% endfor %}</ul>
 {% endif %}
 
-<br>
-Service and leadership
-======
+
+## Service and leadership
+
 * Currently signed in to 9 different slack teams

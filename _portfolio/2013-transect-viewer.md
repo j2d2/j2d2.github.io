@@ -1,11 +1,18 @@
 ---
 title: "UA SRER Transect Viewer"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "SRER Transect Viewer<br/><img src='/images/portfolio/transect-viewer.png'>"
 collection: portfolio
+date: 2013-01-01
 ---
 
-## University of Arizona
-2013 - built with jQuery and YUI Lib
-[https://cales.arizona.edu/srer/transects](https://cales.arizona.edu/srer/transects)
-solely focused on functionality, still runnning, working across all platforms
+*Role:* Sole Developer  
+*Company:* University of Arizona  
+<a href="https://cales.arizona.edu/srer/transects" target="_blank">https://cales.arizona.edu/srer/transects</a>  
 
+Web viewer for location-aware photos over time, along transects for reference. 
+- solely focused on functionality, minimal UI effort
+- still working across all platforms after 11 years!
+
+<img src='/images/portfolio/transect-viewer.png' class="portfolio_img">  
+
+`jQuery` · `YUI` · `GIS Mapping` · `Vue.js`
