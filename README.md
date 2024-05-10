@@ -14,6 +14,7 @@ If you have questions or curiousities, go to that link above. If you really want
 * Single pages: _pages/
 * Collections of pages are .md or .html files in:
   * _portfolio/
+  * _experience/
   * _posts/
 * Footer: _includes/footer.html
 * Static files (like PDFs): /files/

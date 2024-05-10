@@ -21,7 +21,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "J.D. Gibbs / Hello My World"
+title                    : "j.d.gibbs.io"
 title_separator          : "-"
 name                     : &name "J.D. Gibbs"
 description              : &description "full-stack developer and culture explorer"
@@ -38,8 +38,7 @@ author:
   name             : "J.D. Gibbs"
   pronouns         : # example: "she/her"  
   bio              : >- # this means to ignore newlines until next el
-    Strategic thinker, creative problem solver, AI-, coding- and UX-obsessed technologist, 
-    who loves to immerse his family in cultures around the world.
+    Strategic, logical & creative technologist, mindful doer, who loves to immerse his family in cultures around the world.
   location         : "San Diego, CA"
   employer         : "University of Arizona"
   uri              : # URL
@@ -92,7 +91,7 @@ author:
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
+future                   : false # toggle showing posts scheduled in the future
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
@@ -223,14 +222,18 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  teaching:
+  experience:
     output: true
+    permalink: /:collection/:path/
+    sort_by: end_date
+  teaching:
+    output: false # false causes 404
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false # false causes 404
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false # false causes 404
     permalink: /:collection/:path/
 
 
@@ -263,6 +266,12 @@ defaults:
       author_profile: true
       share: true
       comment: true
+  # _experience
+  - scope:
+      path: ""
+      type: experience
+    values:
+      layout: single
   # _teaching
   - scope:
       path: ""

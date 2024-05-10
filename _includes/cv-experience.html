@@ -1,0 +1,37 @@
+{% include base_path %}
+
+ {% assign list_type = include.type | default: "experience" %}
+ 
+<div class="{{ list_type }}__item">
+  {% if post.start_date %}
+  <div class="{{ list_type }}__item-dates">
+    {{ post.start_date | default: "today" | date: "%Y/%m" }}
+    &mdash; 
+    <!-- if end_date is in the future => it's current. compare with `%s` unix timstamps -->
+    {% assign today_date = 'now' | date: '%s' %}
+    {% assign end_date = post.end_date | date: '%s' %}
+    {% if today_date > end_date %}
+    {{ post.end_date | default: "now" | date: "%Y/%m" }}
+    {% else %}
+    {{ site.data.ui-text[site.locale].current | default: "Current" }}
+    {% endif %}
+  </div>
+  {% endif %}
+  <h3 class="{{ list_type }}__item-title">
+    {{ post.title }}
+  </h3>
+  {% if post.company %}
+  <div class="{{ list_type }}__item-company">
+    {{ post.company }}
+  </div>
+  {% endif %}
+  {% if post.location %}
+  <div class="{{ list_type }}__item-location">
+    {{ post.location }}
+  </div>
+  {% endif %}
+
+  <div class="{{ list_type }}__item-content">
+    {{ post.content | markdownify }}
+  </div>
+</div>
