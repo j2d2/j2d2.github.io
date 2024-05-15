@@ -64,7 +64,6 @@ While you're here, be sure to check out:
 
 * [My Portfolio](/portfolio)
 * [My CV](/cv)
-* Or, reach out to me using any social avenue you prefer &mdash; cheers!
 
-**Or!** reach out to me using any social avenue you prefer &mdash; cheers!
+Or, reach out to me using any social avenue you prefer &mdash; cheers!
 {: .notice}

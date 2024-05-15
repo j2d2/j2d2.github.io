@@ -40,3 +40,38 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+.center {
+  text-align: center;
+}
+
+h2.bio-heading {
+  font-weight: 700;
+  text-transform: uppercase;
+  padding-bottom: 0;
+  border-bottom: none;
+  margin-top: 1.5em;
+
+  &.bio-name {
+    margin-top: 1em;
+    margin-bottom: 0;
+  }
+}
+
+table.bio-sketch {
+  border: none;
+  font-size: 1em;
+  
+  tr, td {
+    border: none;
+  }
+
+  tr td:first-child {
+    vertical-align: top;
+    width: 134px;
+  }
+
+  a {
+    display: block;
+  }
+}

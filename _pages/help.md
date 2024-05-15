@@ -1,9 +1,9 @@
 ---
-permalink: /help
+permalink: /help/
 title: "Help me?"
 author_profile: true
 redirect_from: 
-  - /help/
+  - /help
   - /help.html
 ---
 
