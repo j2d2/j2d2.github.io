@@ -5,20 +5,21 @@ I know most people will never look at this file, but if you do: welcome to the R
 This site is best viewed as html:  
 https://j2d2.github.io
 
-If you have questions or curiousities, go to that link above. If you really want to contribute to a Github Pages site about me... then see [CONTRIBUTING.md], i suppose.
+If you have questions or curiousities, go to that link above. If you really want to contribute to a Github Pages site about me... then see [CONTRIBUTING.md] :)  
 
 ## TLDR;
 
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
+* Basic config options: `_config.yml`
+* Top navigation bar config: `_data/navigation.yml`
+* Single pages: `_pages/`
 * Collections of pages are .md or .html files in:
-  * _portfolio/
-  * _experience/
-  * _posts/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+  * `_portfolio/`
+  * `_experience/`
+  * `_posts/`
+* Footer: `_includes/footer.html`
+* Static files (like PDFs, .zip files, etc): Upload to the `files` directory 
+* Profile image (can set in _config.yml): `images/profile.png`
+* (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
 
 ## Tips and hints
 
@@ -39,28 +40,13 @@ layout: home
 ---
 ```
 
-## References
- * []()
-
 ---
 
-# Theme Reference: Academic Pages
+# Theme Reference
 
 ![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
 
-Academic Pages is a Github Pages template for academic websites.
-
-## Getting Started
-
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Click the "Use this template" button in the top right.
-1. On the "New repository" page, enter your repository name as "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and add your content.
-1. Upload any files (like PDFs, .zip files, etc.) to the `files/` directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
-
-See demo at https://academicpages.github.io/
+This site is based on [Academic Pages](https://academicpages.github.io), which is a Github Pages template for academic websites.
 
 ## Running Locally
 

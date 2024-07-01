@@ -1,0 +1,204 @@
+J.D. Gibbs
+==========
+Full-stack JavaScript Developer, Project Manager, BS in Industrial Technology Management
+
+6636 Avenida Andorra  
+La Jolla, CA 92037  
+E-mail: jdgibbz@gmail.com  
+Phone: (520) 425-2565  
+
+Summary
+=======
+Strategic thinker, creative problem solver and process streamliner, with extensive experience in technology, programming, design and operations, and in forming and leading effective teams. Passionate about staying current on the latest technologies and best-practices.
+Interested in finding an exciting challenge where the technologies of today and tomorrow can be harnessed to contribute to a better future.
+
+Work experience
+===============
+09/2012 - Current
+Web Applications Developer, Principal
+University of Arizona
+Tucson, AZ
+
+* Lead Developer and Project Manager on multiple web applications and web sites, focusing on responsive web apps, using technologies and methodologies including:  
+  - JavaScript, TypeScript, Vue, Angular, Mobile-First and Responsive Design, C#.NET MVC, AJAX, Python, PHP, custom Drupal modules  
+  - Progressive Web Apps (PWAs), Service Workers and Web Sockets  
+  - Google & AWS Analytics, Search Engine Optimizations and social media integrations  
+* Lead architect and engineer for serverless AWS infrastructure including DevOps and maintenance plans supporting complex webapps, Drupal frontends and standalone APIs
+* Lead Full-Stack Developer and client interface on complex webapps including:  
+  - https://www.desertagwise.org – Vue, Vuex PWA with AWS backend  
+  - https://www.westisburning.org – Vue, Vuex PWA with AWS  
+  - https://sustainabilitymap.arizona.edu – Vue, Leaflet, ArcGIS  
+  - https://cct.arizona.edu/projects/arboretum-grounds – Vue, Leaflet, ArcGIS, C# API backend  
+  - https://myraingelog.arizona.edu – Vue, Vuex, Leaflet, AWS backend  
+  - https://beyondthemirage.org/experience – PWA built with Backbone.js and Marionette    
+  - https://desertlandscaping.arizona.edu – Frontend with KendoUI from Telerik, Backend Drupal admin portal  
+  - https://cct.arizona.edu/projects/landscape-drip-irrigation-scheduler – Drupal  
+  - Contributor or lead on 75% of the team's highlighted work: https://cct.arizona.edu/work  
+* Managed and trained up to 2 student workers at a time, while contributing to projects  
+* Created a C#.NET Lab Sign Up web application that optimized the process of registration and communication to 15 locations with daily and multiple-week registrations for hundreds of students per semester  
+  - Awarded for reliability & stability based on uninterrupted use for 7 years without downtime!  
+
+06/2016 - 12/2023 
+Co-Founder, Head of Development
+Filmstacker.com
+La Jolla, CA
+
+* Co-Founded company focused on collaborative video storytelling, represented the product as technology expert during business proposals  
+* Architect and lead developer of hybrid web app using Angular-Ionic for frontend and AWS serverless architecture including: GraphQL with real-time data streams, HLS video transcoding and streaming, SQS, SNS, Nodejs and Python Lambda functions, analytics, error management and CI/CD using Serverless Framework and AWS Amplify
+* Managed international frontend Angular-Ionic developers to realize the vision of the UI/UX design team
+* Led code-reviews, team meetings, strategy, priorities, wearing all hats in process at some point, utilizing a streamlined Agile flow in Jira
+* Managed bug reporting and errors with tools such as Sentry and Mezmo
+* Oversaw outsourced QA team and improvements via feedback loop and precision refactoring
+
+
+10/2021 - 12/2023 
+Blockchain Web Application Developer
+Taurium Labs 
+La Jolla, CA
+
+* Supported founder team with web applications to showcase the Cryptocurrency startup’s blockchain value proposition
+* Built a secure API gateway with Express.js as direct interface to ledger, via a custom-built Lambda runtime compiling C code with an Ubuntu Docker container, essentially bridging the blockchain and Web2 apps
+* Designed and implemented a Hierarchical Deterministic (HD) Wallet webapp using Angular-Ionic, researching and learning the technologies on the fly to showcase the blockchain performance with real-time data transaction streams  
+  – https://wallet.tauriumlabs.app
+* Designed and built the Block Explorer to support the development and sales teams
+
+01/2011 - 06/2012 
+Founder / Developer / Business Manager
+VIVAwebDesign.mobi 
+Santa Cruz, CA
+
+* Founded company focused on Mobile Web Design for local businesses 
+  - Local evangelist for HTML5 and the benefits of the Mobile Web
+* Provided all aspects of Design from corporate branding to printed marketing products to dynamic web applications
+* Developed custom Content Management System based in C#.NET
+* Consulted clients on Internet Marketing and Advertising and Social Media
+* Constant focus on SEO trends throughout all design efforts
+
+03/2011 - 05/2012 
+VP of Product and User Experience
+AdXplore 
+Santa Cruz, CA
+
+* Responsible for the User Experience of the AdXplore Local Mobile Advertising Apps, previously available in both the iTunes App Store and Android Market
+* Collaborated with the development team to ensure that the User Interface was clear and intuitive by providing analysis, recommendations, graphics and layouts to support the functionality
+* Helped lead the marketing and branding of the Apps to create a strong user-base in Santa Cruz, with plans to scale World-wide
+ 
+08/2008 - 01/2011 
+iPod New Product Operations Program Manager
+Apple Computer, Inc. 
+Cupertino, CA
+
+* Directly-Responsible-Individual (DRI) for iPod Touch Operations
+  - Directed all manufacturing operations, priorities, schedules, and major decisions for contracted China factory, from planning phase through volume production
+  - Defined and executed production ramp plan, including operator training, test equipment logistics, data reporting processes, fixture approvals, Standard Operating Process documents and approvals, and line and component qualifications
+  - Developed and managed capacity plan for product ramp to production, including risk mitigation scenarios and cross-functional communications to ensure volume targets with Executive commitments
+  - Responsible for defining and tracking budget to Finance and Executive team
+  - Presented program status to Senior VP of Operations bi-weekly
+* Established working relationships with multi-functional engineering teams
+and represented Operations priorities throughout the development cycle
+* Managed the 2009 and 2010 iPod Touch from conception through volume ramp, meeting all commitments and staying within budget
+* Led the Post-Ramp Qualification team for 2008-2009 which coordinated component and process qualifications across the entire iPod product line
+* Documented the iPod/iPhone Software Deployment Process to Manufacturing Sites by collaborating with a cross-functional team and trained the Operations team on the process gotchas, pitfalls and beauty
+
+08/2005 - 07/2008 
+New Product Introduction (NPI) Sourcing Program Manager
+Emerson Embedded Computing 
+Tempe, AZ
+
+* Managed large-scale network infrastructure system programs including both hardware and software from design to volume ramp production
+* Site Lead for Worldwide Strategic Sourcing and Supply Management team, Global Category Manager for Power Supplies, Storage, Batteries and Computer Peripherals
+  - Established working relationships with multi-functional engineering teams and represented project team to Executive Leadership Team
+  - Responsible for risk identification and the coordination of risk mitigation plans, ensuring the buy-in from cross-functional team members
+  - Lead negotiator for several development contracts, including Intellectual Property (IP) Royalty Agreements for IP Licensing
+  - Developed and executed strategies and technology roadmaps, cost models and supply market intelligence
+  - Managed supplier relationships and conducted quarterly business reviews and lead collaborative cost reduction initiatives with suppliers
+  - Performed contract negotiations with suppliers to meet cost reduction goals and performed capacity planning analysis to ensure continuity of supply
+
+08/2003 - 08/2005 
+Web/Graphic Designer, IT Specialist
+Trango Systems, Inc. 
+San Diego, CA
+
+* Sole Designer and Webmaster for three web sites
+  - Responsible for all graphic design and server administration
+  - Developed Online Store and Support Forum Web Applications using C#.NET
+* Sole Graphic Designer for Marketing Communications / Advertising
+* Project manager with cross-functional team including Engineering and the Executive Staff
+* IT Specialist acting as DBA, Exchange Server Admin, Active Directory Admin
+
+01/2002 - 08/2003 
+Applications Engineer, eLearning
+Microchip Technology, Inc 
+Chandler, AZ
+
+* Designed and developed online registration Web Applications for multiple Technical Training Seminars, with Engineers as the intended audience
+* Created animated Technical Training Modules in Macromedia Flash that were deployed on the Internet and CDROM. Responsible for all phases of the development, from the authoring of the content through deployment
+* Took previously written technical material (often from multiple sources) and combined/edited/clarified by interfacing with engineers and other disciplines to create a standalone narration script that is clear, accurate, well organized and suitable for eLearning projects
+
+01/2000 - 12/2001 
+Project Manager
+Motorola Computer Group 
+Tempe, AZ
+
+* Managed large-scale computer system projects, which included customized hardware and software, from conceptualization through production, acting as the engineering-manufacturing liaison
+* Responsible for project definition, product evaluation and selection, project planning, budgeting, scheduling, risk management, development and implementation activities.
+* Recognized for ability to assess manufacturability of products in a large* scale manufacturing facility, as well as contract manufacturing facilities
+* Designed and maintained the Product Engineering Web Site for Motorola Computer Group which included the creation of Web Applications with ColdFusion and Perl
+
+
+Education
+=========
+2020-2023 
+Online Learning Certifications
+University of Arizona 
+Tucson, AZ
+* Secure System Administration and Developer Certification (SADC) 
+* Information Security Awareness Certifications
+
+2008 
+Six Sigma Green Belt
+Motorola University
+Tempe, AZ
+* Green Belt Project: NPI Material Reservation Process
+
+2005-2007 
+Motorola University Training
+Motorola University
+Tempe, AZ
+* Building International Relations of Strength and Integrity
+* Six Sigma Quality Foundations
+* Negotiating With Suppliers (and Internal Business Partners) 
+* Supply Chain Management: Principles and Concepts
+* Coaching for Success
+* Conducting Effective Meetings
+* Interaction Management Essentials
+
+2001 
+School of Business and Public Management
+George Washington University 
+Tempe, AZ
+* Certificate of completion for “Scheduling and Cost Control”
+* Certificate of completion for "Managing Projects in Organizations" 
+* Certificate of completion for "International Project Management"
+
+1994 – 2000 
+B.S. – Industrial Technology Management
+Arizona State University 
+Tempe, AZ
+* Concentration in Web and Graphic Design, Information Technology and Applied Engineering, with an emphasis in Mechanical Engineering and IT Program Management
+
+
+Computer Skills
+===============
+Languages & Technologies:
+ES6+, TypeScript, Angular, Ionic, Vue, Git, GraphQL, C#.NET, HTML5, CSS3, Python, PHP, Swift, AWS Serverless Architectures
+
+Applications:
+Visual Studio Code, X-Code, Adobe Photoshop, Illustrator, Acrobat, Blender
+
+
+
+References
+==========
+Available upon request
+
