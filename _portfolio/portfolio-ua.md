@@ -9,6 +9,10 @@ date: 2021-01-01
 
 Lead Full-Stack Developer and client interface on complex webapps including:
 
+<!-- either html a href or md links with ext target {:target="_blank"} 
+ie: Contributor or lead on 75% of the team's highlighted work: [https://cct.arizona.edu/work](https://cct.arizona.edu/work){:target="_blank"}
+-->
+
 - <a href="https://www.westisburning.org" target="_blank">https://www.westisburning.org</a> – Vue, Vuex PWA with AWS
 - <a href="https://sustainabilitymap.arizona.edu" target="_blank">https://sustainabilitymap.arizona.edu</a> – Vue, Leaflet, ArcGIS
 - <a href="https://cct.arizona.edu/projects/arboretum-grounds" target="_blank">https://cct.arizona.edu/projects/arboretum-grounds</a> – Vue, Leaflet, ArcGIS, C# API backend
