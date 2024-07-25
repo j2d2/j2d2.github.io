@@ -12,8 +12,8 @@ tags:
   - Sales
 --- 
 
-* Responsible for the User Experience of the AdXplore Local Mobile Advertising Apps, previously available in both the iTunes App Store and Android Market
-* Collaborated with the development team to ensure that the User Interface was clear and intuitive by providing analysis, recommendations, graphics and layouts to support the functionality
-* Helped lead the marketing and branding of the Apps to create a strong user-base in Santa Cruz, with plans to scale World-wide
+* Responsible for User Experience of AdXplore Local Mobile Advertising Apps, ensuring clear and intuitive UI, enhancing user satisfaction.
+* Collaborated with development team on UI recommendations, supporting app functionality and usability.
+* Led marketing and branding efforts, building a strong user base in Santa Cruz and planning for global scale.
 
 __Skills:__ `Mobile Web` · `Native Apps` · `UX/UI` · `Sales`

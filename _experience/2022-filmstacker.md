@@ -11,12 +11,12 @@ tags:
   - Ionic
 --- 
 
-* Co-Founded company focused on collaborative video storytelling, represented the product as technology expert during business proposals
-* Architect and lead developer of hybrid web app using Angular-Ionic for frontend and AWS serverless architecture including: GraphQL with real- time data streams, HLS video transcoding and streaming, SQS, SNS, Nodejs and Python Lambda functions, analytics, error management and CI/CD using Serverless Framework and AWS Amplify  
-  [https://app.filmstacker.com](https://app.filmstacker.com){:target="_blank"}
-* Managed International frontend Angular-Ionic developers to realize the vision of the UI/UX design team
-* Led code-reviews, team meetings, strategy, priorities, wearing all hats in process at some point, utilizing a streamlined Agile flow in Jira
-* Managed bug reporting and errors with tools such as Sentry and Mezmo
-* Oversaw outsourced QA team and improvements via feedback loop and precision refactoring
+* Co-Founded Filmstacker, focusing on collaborative video storytelling, serving as technology expert during business proposals, enhancing product marketability.  
+* Architected and led the development of a hybrid web app using Angular-Ionic and AWS serverless architecture, implementing real-time data sockets with GraphQL and video transcoding and streaming, resulting in efficient and scalable video solutions.
+* Managed international frontend development team to realize the UI/UX vision, improving user experience.
+* Led product strategy, code reviews, team meetings, and Agile process in Jira, ensuring streamlined development and quality control.
+* Oversaw QA team and implemented feedback loop for continuous improvement, reducing bugs and enhancing app stability.
+
+[https://app.filmstacker.com](https://app.filmstacker.com){:target="_blank"}
 
 __Skills:__ `Angular` · `Ionic` · `NoSQL` · `Jira` · `Data Architecture` · `Node.js` · `Amazon Web Services (AWS)`

@@ -12,18 +12,18 @@ show_teaching: false
 
 {% include base_path %}
 
-### Full-Stack Web Applications Engineer, Project Manager, BS in Industrial Technology Management
+### Full-Stack Web &amp; AI Application Developer, Project Manager, BS in Industrial Technology Management
 
-Strategic thinker, creative problem solver and process streamliner, AI-, coding- and UX-obsessed technologist, with extensive experience in programming, design and operations, that enjoys forming and leading effective teams, and is passionate about staying current on the latest technologies and best-practices.
+Accomplished and innovative technology leader with decades of experience in full-stack web development, project management, and team leadership. Expert in designing and implementing scalable, secure, and user-friendly applications using cutting-edge technologies such as TypeScript, Vue, Angular, AWS, AI and blockchain. Proven track record of streamlining processes, enhancing operational efficiency, and delivering high-quality solutions on time and within budget.
 
-Interested in exciting challenges where the technologies of today and tomorrow can be harnessed to contribute to a better future for us all.
+Skilled in leading cross-functional teams, fostering a collaborative and innovative environment, and mentoring junior developers. Passionate about leveraging the latest technologies and best practices to drive impactful projects that contribute to a better future. Seeking new challenges where I can apply my expertise to create meaningful and transformative technological solutions.
 
 ## Education
 
 * B.S. – Industrial Technology Management, Arizona State University – 2000
-  - Concentration in Web and Graphic Design, Information Technology and Applied Engineering, with an emphasis in Mechanical Engineering and IT Project Management
+  - Concentration in Web and Graphic Design, Information Technology and Applied Engineering, with an emphasis in Mechanical Engineering and IT Program Management
 
-* Certifications – University of Arizona, Tucson, AZ – 2020-2023
+* Certifications – University of Arizona, Tucson, AZ – 2020-2024
   - Secure System Administration and Developer Certification (SADC)
   - Information Security Awareness Certifications
 
@@ -41,17 +41,17 @@ Interested in exciting challenges where the technologies of today and tomorrow c
 </section>
   
 ## Skills
-* Software Development
+* Full-Stack Software Development
 * Project Management
 * Web Applications
 * TypeScript
 * Angular
 
 **Languages & Technologies:**  
-ES6+, TypeScript, Angular, Ionic, Vue, Git, GraphQL, C#.NET, HTML5, CSS3, Python, PHP, Swift, AWS Serverless Architectures
+ES6+, TypeScript, Angular, Ionic, Vue, React, Redux, GraphQL, C#.NET, Python, PHP, Swift, HTML5, CSS3, Git, AWS Serverless Architectures, Docker
 
 **Applications:**  
-Visual Studio Code, X-Code, Adobe Photoshop, Illustrator, Acrobat, Blender
+Visual Studio Code, X-Code, Jupyter, Anaconda, Adobe Photoshop, Illustrator, Acrobat, Blender
 
 {% if show_publications %}
 Publications

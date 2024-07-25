@@ -11,16 +11,9 @@ tags:
   - Project Management
 --- 
 
-* Directly-Responsible-Individual (DRI) for iPod Touch Operations
-  - Directed all manufacturing operations, priorities, schedules, and major decisions for contracted China factory, from planning phase through volume production
-  - Defined and executed production ramp plan, including operator training, test equipment logistics, data reporting processes, fixture approvals, Standard Operating Process documents and approvals, and line and component qualifications
-  - Developed and managed capacity plan for product ramp to production, including risk mitigation scenarios and cross-functional communications to ensure volume targets with Executive commitments
-  - Responsible for defining and tracking budget to Finance and Executive team
-  - Presented program status to Senior VP of Operations bi-weekly
-* Established working relationships with multi-functional engineering teams
-and represented Operations priorities throughout the development cycle
-* Managed the 2009 and 2010 iPod Touch from conception through volume ramp, meeting all commitments and staying within budget
-* Led the Post-Ramp Qualification team for 2008-2009 which coordinated component and process qualifications across the entire iPod product line
-* Documented the iPod/iPhone Software Deployment Process to Manufacturing Sites by collaborating with a cross-functional team and trained the Operations team on the process gotchas, pitfalls and beauty
+* Directed all manufacturing operations for iPod Touch, from planning through volume production, achieving production targets and maintaining supply-chain efficiencies.
+* Defined and executed production ramp and risk mitigation plans, managing budgets and presenting status bi-weekly to Senior VP of Operations, securing executive commitments and ensuring worldwide team alignment.
+* Established relationships with engineering teams, representing operations priorities, facilitating smooth product development, test and launch.
+* Documented the iPod/iPhone Software Deployment Process to manufacturing sites and optimized Operations’ procedures to leverage the intricacies and beautiful best practices, improving deployment efficiency and reducing production delays.
 
 __Skills:__ `Operations` · `Supply Chain` · `Project Management`

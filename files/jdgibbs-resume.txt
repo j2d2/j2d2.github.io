@@ -1,16 +1,21 @@
 J.D. Gibbs
 ==========
-Full-stack JavaScript Developer, Project Manager, BS in Industrial Technology Management
+Full-Stack Web & AI Application Developer, Project Manager 
+BS in Industrial Technology Management
 
 6636 Avenida Andorra  
 La Jolla, CA 92037  
 E-mail: jdgibbz@gmail.com  
 Phone: (520) 425-2565  
+https://j2d2.github.io
 
-Summary
-=======
-Strategic thinker, creative problem solver and process streamliner, with extensive experience in technology, programming, design and operations, and in forming and leading effective teams. Passionate about staying current on the latest technologies and best-practices.
-Interested in finding an exciting challenge where the technologies of today and tomorrow can be harnessed to contribute to a better future.
+
+Professional Summary
+====================
+Accomplished and innovative technology leader with over two decades of experience in full-stack web development, project management, and team leadership. Expert in designing and implementing scalable, secure, and user-friendly applications using cutting-edge technologies such as TypeScript, Vue, Angular, AWS, AI and blockchain. Proven track record of streamlining processes, enhancing operational efficiency, and delivering high-quality solutions on time and within budget.
+
+Skilled in leading cross-functional teams, fostering a collaborative and innovative environment, and mentoring junior developers. Passionate about leveraging the latest technologies and best practices to drive impactful projects that contribute to a better future. Seeking new challenges where I can apply my expertise to create meaningful and transformative technological solutions.
+
 
 Work experience
 ===============
@@ -19,36 +24,24 @@ Web Applications Developer, Principal
 University of Arizona
 Tucson, AZ
 
-* Lead Developer and Project Manager on multiple web applications and web sites, focusing on responsive web apps, using technologies and methodologies including:  
-  - JavaScript, TypeScript, Vue, Angular, Mobile-First and Responsive Design, C#.NET MVC, AJAX, Python, PHP, custom Drupal modules  
-  - Progressive Web Apps (PWAs), Service Workers and Web Sockets  
-  - Google & AWS Analytics, Search Engine Optimizations and social media integrations  
-* Lead architect and engineer for serverless AWS infrastructure including DevOps and maintenance plans supporting complex webapps, Drupal frontends and standalone APIs
-* Lead Full-Stack Developer and client interface on complex webapps including:  
-  - https://www.desertagwise.org – Vue, Vuex PWA with AWS backend  
-  - https://www.westisburning.org – Vue, Vuex PWA with AWS  
-  - https://sustainabilitymap.arizona.edu – Vue, Leaflet, ArcGIS  
-  - https://cct.arizona.edu/projects/arboretum-grounds – Vue, Leaflet, ArcGIS, C# API backend  
-  - https://myraingelog.arizona.edu – Vue, Vuex, Leaflet, AWS backend  
-  - https://beyondthemirage.org/experience – PWA built with Backbone.js and Marionette    
-  - https://desertlandscaping.arizona.edu – Frontend with KendoUI from Telerik, Backend Drupal admin portal  
-  - https://cct.arizona.edu/projects/landscape-drip-irrigation-scheduler – Drupal  
-  - Contributor or lead on 75% of the team's highlighted work: https://cct.arizona.edu/work  
-* Managed and trained up to 2 student workers at a time, while contributing to projects  
-* Created a C#.NET Lab Sign Up web application that optimized the process of registration and communication to 15 locations with daily and multiple-week registrations for hundreds of students per semester  
-  - Awarded for reliability & stability based on uninterrupted use for 7 years without downtime!  
+* Led development and project management for multiple web applications and websites, utilizing JavaScript, TypeScript, Vue, Angular, React, Mobile-First and Responsive Design, Leaflet, ArcGIS, C#.NET MVC, AJAX, Python, PHP, and custom Drupal modules, resulting in highly responsive and accessible web apps.
+* Architected and engineered serverless AWS infrastructure, including DevOps and maintenance plans, supporting complex web apps and standalone APIs, improving scalability and performance.
+* Developed complex Progressive Web Apps (PWAs), such as https://DesertAgWISE.org and https://WestIsBurning.org using Vue, Vuex and AWS backends, providing real-time-data subscriptions with GraphQL, social media integrations and search engine optimizations, enhancing user engagement and accessibility.
+* Contributor or lead on 75% of the team's highlighted work: https://cct.arizona.edu/work
+* Managed and trained up to 2 student workers, contributing to project development and ensuring knowledge transfer.
+* Created a C#.NET Lab Sign Up web application that optimized the registration process for 15 locations, serving hundreds of students per semester – awarded for reliability & stability over 7 years without downtime!
+ 
 
 06/2016 - 12/2023 
 Co-Founder, Head of Development
 Filmstacker.com
 La Jolla, CA
 
-* Co-Founded company focused on collaborative video storytelling, represented the product as technology expert during business proposals  
-* Architect and lead developer of hybrid web app using Angular-Ionic for frontend and AWS serverless architecture including: GraphQL with real-time data streams, HLS video transcoding and streaming, SQS, SNS, Nodejs and Python Lambda functions, analytics, error management and CI/CD using Serverless Framework and AWS Amplify
-* Managed international frontend Angular-Ionic developers to realize the vision of the UI/UX design team
-* Led code-reviews, team meetings, strategy, priorities, wearing all hats in process at some point, utilizing a streamlined Agile flow in Jira
-* Managed bug reporting and errors with tools such as Sentry and Mezmo
-* Oversaw outsourced QA team and improvements via feedback loop and precision refactoring
+* Co-Founded Filmstacker, focusing on collaborative video storytelling, serving as technology expert during business proposals, enhancing product marketability. 
+* Architected and led the development of a hybrid web app using Angular-Ionic and AWS serverless architecture, implementing real-time data sockets with GraphQL and video transcoding and streaming, resulting in efficient and scalable video solutions.
+* Managed international frontend development team to realize the UI/UX vision, improving user experience.
+* Led product strategy, code reviews, team meetings, and Agile process in Jira, ensuring streamlined development and quality control.
+* Oversaw QA team and implemented feedback loop for continuous improvement, reducing bugs and enhancing app stability.
 
 
 10/2021 - 12/2023 
@@ -56,94 +49,82 @@ Blockchain Web Application Developer
 Taurium Labs 
 La Jolla, CA
 
-* Supported founder team with web applications to showcase the Cryptocurrency startup’s blockchain value proposition
-* Built a secure API gateway with Express.js as direct interface to ledger, via a custom-built Lambda runtime compiling C code with an Ubuntu Docker container, essentially bridging the blockchain and Web2 apps
-* Designed and implemented a Hierarchical Deterministic (HD) Wallet webapp using Angular-Ionic, researching and learning the technologies on the fly to showcase the blockchain performance with real-time data transaction streams  
-  – https://wallet.tauriumlabs.app
-* Designed and built the Block Explorer to support the development and sales teams
+* Supported founder team with web applications showcasing the Cryptocurrency startup’s blockchain value proposition, increasing market interest.
+* Built a secure API gateway with Express.js and custom Lambda runtime built with compiled C code in an Ubuntu Docker container, bridging the blockchain and Web2 apps, enhancing security and performance.
+* Designed and implemented a Hierarchical Deterministic (HD) Wallet web app using Angular-Ionic, showcasing blockchain performance with real-time data transactions, improving user trust and engagement.
+* Designed and built the Block Explorer, supporting development and sales teams, improving transparency and accessibility.
+
 
 01/2011 - 06/2012 
 Founder / Developer / Business Manager
 VIVAwebDesign.mobi 
 Santa Cruz, CA
 
-* Founded company focused on Mobile Web Design for local businesses 
-  - Local evangelist for HTML5 and the benefits of the Mobile Web
-* Provided all aspects of Design from corporate branding to printed marketing products to dynamic web applications
-* Developed custom Content Management System based in C#.NET
-* Consulted clients on Internet Marketing and Advertising and Social Media
-* Constant focus on SEO trends throughout all design efforts
+* Founded company focused on Mobile Web Design for local businesses, evangelizing HTML5 and Mobile Web benefits, increasing local business web presence.
+* Provided comprehensive design services from branding to dynamic web applications, improving client marketing efforts.
+* Developed custom Content Management System in C#.NET, enhancing client control over web content.
+* Consulted clients on Internet Marketing and SEO trends, boosting their online visibility and engagement.
+
 
 03/2011 - 05/2012 
 VP of Product and User Experience
 AdXplore 
 Santa Cruz, CA
 
-* Responsible for the User Experience of the AdXplore Local Mobile Advertising Apps, previously available in both the iTunes App Store and Android Market
-* Collaborated with the development team to ensure that the User Interface was clear and intuitive by providing analysis, recommendations, graphics and layouts to support the functionality
-* Helped lead the marketing and branding of the Apps to create a strong user-base in Santa Cruz, with plans to scale World-wide
+* Responsible for User Experience of AdXplore Local Mobile Advertising Apps, ensuring clear and intuitive UI, enhancing user satisfaction.
+* Collaborated with development team on UI recommendations, supporting app functionality and usability.
+* Led marketing and branding efforts, building a strong user base in Santa Cruz and planning for global scale.
+
  
 08/2008 - 01/2011 
 iPod New Product Operations Program Manager
 Apple Computer, Inc. 
 Cupertino, CA
 
-* Directly-Responsible-Individual (DRI) for iPod Touch Operations
-  - Directed all manufacturing operations, priorities, schedules, and major decisions for contracted China factory, from planning phase through volume production
-  - Defined and executed production ramp plan, including operator training, test equipment logistics, data reporting processes, fixture approvals, Standard Operating Process documents and approvals, and line and component qualifications
-  - Developed and managed capacity plan for product ramp to production, including risk mitigation scenarios and cross-functional communications to ensure volume targets with Executive commitments
-  - Responsible for defining and tracking budget to Finance and Executive team
-  - Presented program status to Senior VP of Operations bi-weekly
-* Established working relationships with multi-functional engineering teams
-and represented Operations priorities throughout the development cycle
-* Managed the 2009 and 2010 iPod Touch from conception through volume ramp, meeting all commitments and staying within budget
-* Led the Post-Ramp Qualification team for 2008-2009 which coordinated component and process qualifications across the entire iPod product line
-* Documented the iPod/iPhone Software Deployment Process to Manufacturing Sites by collaborating with a cross-functional team and trained the Operations team on the process gotchas, pitfalls and beauty
+* Directed all manufacturing operations for iPod Touch, from planning through volume production, achieving production targets and maintaining supply-chain efficiencies.
+* Defined and executed production ramp and risk mitigation plans, managing budgets and presenting status bi-weekly to Senior VP of Operations, securing executive commitments and ensuring worldwide team alignment.
+* Established relationships with engineering teams, representing operations priorities, facilitating smooth product development, test and launch.
+* Documented the iPod/iPhone Software Deployment Process to manufacturing sites and optimized Operations’ procedures to leverage the intricacies and beautiful best practices, improving deployment efficiency and reducing production delays.
+
 
 08/2005 - 07/2008 
 New Product Introduction (NPI) Sourcing Program Manager
 Emerson Embedded Computing 
 Tempe, AZ
 
-* Managed large-scale network infrastructure system programs including both hardware and software from design to volume ramp production
-* Site Lead for Worldwide Strategic Sourcing and Supply Management team, Global Category Manager for Power Supplies, Storage, Batteries and Computer Peripherals
-  - Established working relationships with multi-functional engineering teams and represented project team to Executive Leadership Team
-  - Responsible for risk identification and the coordination of risk mitigation plans, ensuring the buy-in from cross-functional team members
-  - Lead negotiator for several development contracts, including Intellectual Property (IP) Royalty Agreements for IP Licensing
-  - Developed and executed strategies and technology roadmaps, cost models and supply market intelligence
-  - Managed supplier relationships and conducted quarterly business reviews and lead collaborative cost reduction initiatives with suppliers
-  - Performed contract negotiations with suppliers to meet cost reduction goals and performed capacity planning analysis to ensure continuity of supply
+* Managed large-scale network infrastructure system programs from design to production, ensuring timely and successful product launches.
+* Site lead for Strategic Sourcing and Supply Management, negotiating contracts and managing supplier relationships as Global Category Manager for Power Supplies, Storage, Batteries and Computer Peripherals, achieving cost reduction goals.
+* Developed technology roadmaps and supply market intelligence, supporting strategic decision-making and risk mitigation.
+
 
 08/2003 - 08/2005 
 Web/Graphic Designer, IT Specialist
 Trango Systems, Inc. 
 San Diego, CA
 
-* Sole Designer and Webmaster for three web sites
-  - Responsible for all graphic design and server administration
-  - Developed Online Store and Support Forum Web Applications using C#.NET
-* Sole Graphic Designer for Marketing Communications / Advertising
-* Project manager with cross-functional team including Engineering and the Executive Staff
-* IT Specialist acting as DBA, Exchange Server Admin, Active Directory Admin
+* Sole designer and webmaster for three websites, responsible for all graphic design and server administration, improving web presence and functionality.
+* Developed online store and support forum applications, enhancing customer service and sales.
+* Acted as IT Specialist, managing databases and network services, ensuring smooth IT operations.
+
 
 01/2002 - 08/2003 
 Applications Engineer, eLearning
 Microchip Technology, Inc 
 Chandler, AZ
 
-* Designed and developed online registration Web Applications for multiple Technical Training Seminars, with Engineers as the intended audience
-* Created animated Technical Training Modules in Macromedia Flash that were deployed on the Internet and CDROM. Responsible for all phases of the development, from the authoring of the content through deployment
-* Took previously written technical material (often from multiple sources) and combined/edited/clarified by interfacing with engineers and other disciplines to create a standalone narration script that is clear, accurate, well organized and suitable for eLearning projects
+* Designed and developed online registration web applications for technical training seminars, improving registration efficiency.
+* Created animated technical training modules, deploying them on the Internet and CDROM, enhancing learning experiences.
+* Combined, edited, and clarified technical material from multiple sources by interfacing with engineers and other disciplines to create clear, accurate, and well-organized narration scripts for eLearning projects, enhancing content quality and learner engagement
+
 
 01/2000 - 12/2001 
 Project Manager
 Motorola Computer Group 
 Tempe, AZ
 
-* Managed large-scale computer system projects, which included customized hardware and software, from conceptualization through production, acting as the engineering-manufacturing liaison
-* Responsible for project definition, product evaluation and selection, project planning, budgeting, scheduling, risk management, development and implementation activities.
-* Recognized for ability to assess manufacturability of products in a large* scale manufacturing facility, as well as contract manufacturing facilities
-* Designed and maintained the Product Engineering Web Site for Motorola Computer Group which included the creation of Web Applications with ColdFusion and Perl
+* Managed large-scale computer system projects from conception to production, ensuring project goals and timelines were met.
+* Developed and maintained product engineering website, creating web applications with ColdFusion and Perl to support engineering and manufacturing processes.
+
 
 
 Education
@@ -191,10 +172,11 @@ Tempe, AZ
 Computer Skills
 ===============
 Languages & Technologies:
-ES6+, TypeScript, Angular, Ionic, Vue, Git, GraphQL, C#.NET, HTML5, CSS3, Python, PHP, Swift, AWS Serverless Architectures
+ES6+, TypeScript, Angular, Ionic, Vue, React, Redux, GraphQL, C#.NET, Python, PHP, Swift, HTML5, CSS3, Git, AWS Serverless Architectures, Docker
+
 
 Applications:
-Visual Studio Code, X-Code, Adobe Photoshop, Illustrator, Acrobat, Blender
+Visual Studio Code, X-Code, Jupyter, Anaconda, Adobe Photoshop, Illustrator, Acrobat, Blender
 
 
 

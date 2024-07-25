@@ -11,13 +11,8 @@ tags:
   - Project Management
 --- 
 
-* Managed large-scale network infrastructure system programs including both hardware and software from design to volume ramp production
-* Site Lead for Worldwide Strategic Sourcing and Supply Management team, Global Category Manager for Power Supplies, Storage, Batteries and Computer Peripherals
-  - Established working relationships with multi-functional engineering teams and represented project team to Executive Leadership Team
-  - Responsible for risk identification and the coordination of risk mitigation plans, ensuring the buy-in from cross-functional team members
-  - Lead negotiator for several development contracts, including Intellectual Property (IP) Royalty Agreements for IP Licensing
-  - Developed and executed strategies and technology roadmaps, cost models and supply market intelligence
-  - Managed supplier relationships and conducted quarterly business reviews and lead collaborative cost reduction initiatives with suppliers
-  - Performed contract negotiations with suppliers to meet cost reduction goals and performed capacity planning analysis to ensure continuity of supply
+* Managed large-scale network infrastructure system programs from design to production, ensuring timely and successful product launches.
+* Site lead for Strategic Sourcing and Supply Management, negotiating contracts and managing supplier relationships as Global Category Manager for Power Supplies, Storage, Batteries and Computer Peripherals, achieving cost reduction goals.
+* Developed technology roadmaps and supply market intelligence, supporting strategic decision-making and risk mitigation.
 
 __Skills:__ `Operations` · `Supply Chain` · `Project Management`

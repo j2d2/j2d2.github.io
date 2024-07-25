@@ -12,11 +12,9 @@ tags:
   - SEO
 --- 
 
-* Founded company focused on Mobile Web Design for local businesses
-  - Local evangelist for HTML5 and the benefits of the Mobile Web
-* Provided all aspects of Design from corporate branding to printed marketing products to dynamic web applications
-* Developed custom Content Management System based in C#.NET
-* Consulted clients on Internet Marketing and Advertising and Social Media
-* Constant focus on SEO trends throughout all design efforts
+* Founded company focused on Mobile Web Design for local businesses, evangelizing HTML5 and Mobile Web benefits, increasing local business web presence.
+* Provided comprehensive design services from branding to dynamic web applications, improving client marketing efforts.
+* Developed custom Content Management System in C#.NET, enhancing client control over web content.
+* Consulted clients on Internet Marketing and SEO trends, boosting their online visibility and engagement.
 
 __Skills:__ `Mobile Web` · `C#.NET` · `SQL` · `SEO`

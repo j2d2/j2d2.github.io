@@ -12,8 +12,8 @@ tags:
   - Project Management
 --- 
 
-* Designed and developed online registration Web Applications for multiple Technical Training Seminars, with Engineers as the intended audience
-* Created animated Technical Training Modules in Macromedia Flash that were deployed on the Internet and CDROM. Responsible for all phases of the development, from the authoring of the content through deployment
-* Took previously written technical material (often from multiple sources) and combined/edited/clarified by interfacing with engineers and other disciplines to create a standalone narration script that is clear, accurate, well organized and suitable for eLearning projects
+* Designed and developed online registration web applications for technical training seminars, improving registration efficiency.
+* Created animated technical training modules, deploying them on the Internet and CDROM, enhancing learning experiences.
+* Combined, edited, and clarified technical material from multiple sources by interfacing with engineers and other disciplines to create clear, accurate, and well-organized narration scripts for eLearning projects, enhancing content quality and learner engagement.
 
 __Skills:__ `Web Design` · `Flash / ActionScript` · `Technical Training` · `Project Management`

@@ -19,11 +19,11 @@ redirect_from:
 
 # TLDR;
 
-### Full-Stack Web Applications Engineer, Project Manager, BS in Industrial Technology Management
+### Full-Stack Web &amp; AI Application Developer, Project Manager, BS in Industrial Technology Management
 
-Strategic thinker, creative problem solver and process streamliner, AI-, coding- and UX-obsessed technologist, with extensive experience in programming, design and operations, that enjoys forming and leading effective teams, and is passionate about staying current on the latest technologies and best-practices.
+Accomplished and innovative technology leader with decades of experience in full-stack web development, project management, and team leadership. Expert in designing and implementing scalable, secure, and user-friendly applications using cutting-edge technologies such as TypeScript, Vue, Angular, AWS, AI and blockchain. Proven track record of streamlining processes, enhancing operational efficiency, and delivering high-quality solutions on time and within budget. 
 
-Interested in exciting challenges where the technologies of today and tomorrow can be harnessed to contribute to a better future for us all.
+Skilled in leading cross-functional teams, fostering a collaborative and innovative environment, and mentoring junior developers. Passionate about leveraging the latest technologies and best practices to drive impactful projects that contribute to a better future. Seeking new challenges where I can apply my expertise to create meaningful and transformative technological solutions.
 
 # Whoami?
 
@@ -40,9 +40,9 @@ Recently engaged with blockchain and the futures of infrastructure, DeFi, and Di
 Also a Founder at Rhumbline Media, he understands engagement with a film-centric platform and the necessity of storytelling promulgation. J.D. spends his free time with his wife and kids, traveling and immersing himself in cultures around the world and playing music as often as possible.
 
 # Key Skills
-- Software Development
+- Full-Stack Software Development
 - Project Management
-- Web Applications
+- Hybrid Mobile/Web Applications
 - TypeScript
 - Angular
 
